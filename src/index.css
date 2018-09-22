@@ -1,0 +1,46 @@
+body {
+  background-color: #1dcaff;
+  padding: 20px;
+  margin: 0;
+  margin-top: -36px;
+  color: #333;
+}
+h1, h2, p, ul, li {
+  font-family: Montserrat, sans-serif;
+  color: black;
+}
+h1 {
+  font-size: 270%;
+  color: #FFF;
+  font-weight: 600;
+  font-kerning: inherit;
+}
+ul.header li {
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+}
+ul.header {
+  background-color: #FFF;
+  padding: 0;
+  border-radius: 7px;
+}
+ul.header li a {
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 12px;
+  display: inline-block;
+}
+.content {
+  background-color: #FFF;
+  padding: 20px;
+  border-radius: 7px;
+}
+.content h2 {
+  padding: 0;
+  margin: 0;
+}
+.content li {
+  margin-bottom: 10px;
+}
